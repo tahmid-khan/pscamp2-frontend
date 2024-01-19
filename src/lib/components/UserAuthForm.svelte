@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="lg:p-8">
-    <div class="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[398px]">
+    <div class="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[418px]">
       <div class="flex flex-col space-y-2 text-center">
         <h2 class="text-2xl font-semibold tracking-tight">
           {signinMode ? "Sign in to" : "Create"} your account
